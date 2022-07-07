@@ -10,11 +10,14 @@
     --clr-socialLinks: #797979;
 
      /*    Layout element size    */
-     --header-height: 9.375rem;
-     --jumbo-height: 25rem;
-     --topFooter-height: 9.375rem;
-     --middleFooter-height: 25rem;
+    --container: 80rem;
+
+    --header-height: 9.375rem;
+    --jumbo-height: 25rem;
+    --topFooter-height: 9.375rem;
+    --middleFooter-height: 25rem;
  
      /*    Graphics element size    */
-     --active-element-height: .3125rem;
+    --active-element-height: .3125rem;
+
 }

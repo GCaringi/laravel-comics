@@ -22,6 +22,7 @@
   --clr-tertiary: #303030;
   --clr-socialLinks: #797979;
   /*    Layout element size    */
+  --container: 80rem;
   --header-height: 9.375rem;
   --jumbo-height: 25rem;
   --topFooter-height: 9.375rem;
