@@ -35,3 +35,7 @@ body {
 .o-jumbo {
   background-image: url(../img/jumbotron.jpg);
 }
+
+.o-topFooter {
+  background-image: url(../img/footer-bg.jpg);
+}
