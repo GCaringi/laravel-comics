@@ -1,5 +1,5 @@
 <div class= "bg-[color:var(--clr-primary)]">
-    <div class="w-[var(--container)] m-auto py-16">
+    <div class="w-[var(--container)] m-auto py-8">
         <ul class="w-full flex text-white justify-around">
             <li class="flex items-center gap-x-4">
                 <img class="h-[40%]" src="{{asset('img/buy-comics-digital-comics.png')}}" alt="">
